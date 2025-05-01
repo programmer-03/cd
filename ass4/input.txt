@@ -1,0 +1,7 @@
+The sun shines brightly.
+A tall teacher teaches quietly.
+"Hello world!"
+She builds code swiftly.
+The eagle flies over the river.
+42 is the answer.
+3.14 is a float.
